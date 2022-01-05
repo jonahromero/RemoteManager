@@ -4,7 +4,7 @@
 #include <fstream>
 #include <sstream>
 #define FILE_PACKET_SIZE 600
-#define ADMIN_PASS "Shitface123"
+#define ADMIN_PASS "123"
 
 void ChatApp::initClientCommands()
 {
